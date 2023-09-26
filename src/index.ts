@@ -1,1 +1,2 @@
-export { compareVersion, validateAndParse } from './compare'
+export * from './compare'
+export * from './utils'
